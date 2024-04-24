@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "gui_guider.h": "c",
+        "time.h": "c",
+        "system_error": "c",
+        "stdint.h": "c",
+        "stdlib.h": "c",
+        "stdio.h": "c"
+    }
+}

@@ -1,0 +1,6 @@
+make --dry-run --always-make --keep-going --print-directory
+make: Entering directory '/home/bhien/GUI-Guider-Projects/Panel/generated'
+make: Leaving directory '/home/bhien/GUI-Guider-Projects/Panel/generated'
+ 
+make: *** No targets specified and no makefile found.  Stop.
+
